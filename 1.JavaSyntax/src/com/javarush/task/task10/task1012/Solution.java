@@ -19,7 +19,9 @@ public class Solution {
         ArrayList<Character> alphabet = new ArrayList<Character>();
         for (int i = 0; i < abcArray.length; i++) {
             alphabet.add(abcArray[i]);
-            
+            //Test
+//sfsfsffs
+
         }
 
         // Ввод строк
